@@ -11,4 +11,6 @@ Using the data set which was obtained from Kaggle's Dataset Repository ("train.c
 
 4.) Who was alone and who was with family?
 
-5.) How does being with family and being alone affect the survival of the passenger?
+5.) What factors helped someone survive the sinking?
+
+6.) How does being with family and being alone affect the survival of the passenger?
